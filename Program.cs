@@ -11,6 +11,7 @@ namespace Part_4___Random_Console
         static void Main(string[] args)
         {
             Random generator = new Random();
+
         
             //Generates a random integer with no constraints
             Console.WriteLine("Random integer from 0 to maximum integer");
